@@ -4,14 +4,14 @@ A sleek, robust Flutter application demonstrating modern asynchronous data fetch
 
 ## 📱 Screenshots
 
- # Splash / Loading State 
+ ### Splash / Loading State 
   
  <img width="1033" height="605" alt="T4 1" src="https://github.com/user-attachments/assets/06eb519e-35cc-422a-bd4a-93ab2be088b5" />
  
- # User Directory 
+ ### User Directory 
 <img width="1019" height="627" alt="T4 2" src="https://github.com/user-attachments/assets/7ae878ab-70d8-4c40-b72d-06e0f3e733c8" />
 
-# Detailed Profile Workspace
+### Detailed Profile Workspace
 <img width="1030" height="604" alt="T4 3" src="https://github.com/user-attachments/assets/da0aff78-ed15-4e06-ae63-f3868c9fc3d8" />
 
 ---
