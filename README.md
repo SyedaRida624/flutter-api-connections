@@ -4,16 +4,19 @@ A sleek, robust Flutter application demonstrating modern asynchronous data fetch
 
 ## 📱 Screenshots
 
-| Splash / Loading State | User Directory | Detailed Profile Workspace |
-|---|---|---|
-| <img src="T4.1.png" width="250"> | <img src="T4.2.png" width="250"> | <img src="T4.3.png" width="250"> |
+ # Splash / Loading State 
+  
+ <img width="1033" height="605" alt="T4 1" src="https://github.com/user-attachments/assets/06eb519e-35cc-422a-bd4a-93ab2be088b5" />
+ 
+ # User Directory 
+<img width="1019" height="627" alt="T4 2" src="https://github.com/user-attachments/assets/7ae878ab-70d8-4c40-b72d-06e0f3e733c8" />
+
+# Detailed Profile Workspace
+<img width="1030" height="604" alt="T4 3" src="https://github.com/user-attachments/assets/da0aff78-ed15-4e06-ae63-f3868c9fc3d8" />
 
 ---
 
-## 🚀 Features<img width="1033" height="605" alt="T4 1" src="https://github.com/user-attachments/assets/f5e9ce3a-a222-40df-ada5-b09d99ae6327" />
-<img width="1033" height="605" alt="T4 1" src="https://github.com/user-attachments/assets/06eb519e-35cc-422a-bd4a-93ab2be088b5" />
-
-
+## 🚀 Features
 
 ### 1. HTTP Requests & Robust JSON Parsing
 * Integrates the standard `http` package to securely fetch raw data from external REST endpoints.
